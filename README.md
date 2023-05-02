@@ -1,4 +1,4 @@
-# PoerBiproject
+# PowerBiproject
 Ecommerce sales dashboard
 
 This project is a Power BI dashboard that analyzes and visualizes ecommerce sales data to help ecommerce businesses make data-driven decisions.
